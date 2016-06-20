@@ -1,5 +1,5 @@
 # Plotting-Cricket-Stadiums-on-a-Map
-I have scrapped the cricket schedule from a website, I created a .csv file of cricket matches, got the locations of the stadiums with the geocoder module and plotted them on a Map
+#I have scrapped the cricket schedule from a website, I created a .csv file of cricket matches, got the locations of the stadiums with the geocoder module and plotted them on a Map
 ##importing requests to download html data
 import requests
 from bs4 import BeautifulSoup
